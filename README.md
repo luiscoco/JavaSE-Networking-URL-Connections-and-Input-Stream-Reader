@@ -122,3 +122,6 @@ public class Main {
 }
 ```
 
+![image](https://github.com/luiscoco/JavaSE-Networking-URL-Connections-and-Input-Stream-Reader/assets/32194879/514a073f-f89e-45ba-9e03-6e34c794b03f)
+
+![image](https://github.com/luiscoco/JavaSE-Networking-URL-Connections-and-Input-Stream-Reader/assets/32194879/81520097-9938-47ce-bc87-dd084a80eeac)
