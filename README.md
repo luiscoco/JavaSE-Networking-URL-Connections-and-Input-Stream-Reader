@@ -1,5 +1,7 @@
 # JavaSE-Networking-URL-Connections-and-Input-Stream-Reader
 
+https://github.com/luiscoco/JavaSE-Networking-URL-Connections-and-Input-Stream-Reader
+
 This Java code performs a simple HTTP GET request to the URL **http://example.org** and prints the content of the response to the console.
 
 The code imports necessary classes from the Java standard library for handling input/output and working with URLs:
